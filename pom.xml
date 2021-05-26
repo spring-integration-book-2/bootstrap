@@ -50,7 +50,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>rsb.bootstrap.bootiful.Application</mainClass>
+                    <mainClass>sib.bootstrap.bootiful.Application</mainClass>
                 </configuration>
             </plugin>
 
